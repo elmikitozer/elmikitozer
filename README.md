@@ -61,7 +61,7 @@ Hybrid **tech & finance** background — Software Engineering student at École 
 
 ## 📬 Let's connect
 
-[![Malt](https://img.shields.io/badge/Malt-FF6B35?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/mikayayevou)
+[![Malt](https://img.shields.io/badge/Malt-FF6B35?style=flat&logoColor=white)](https://www.malt.fr/profile/mikayayevou)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mikayay@icloud.com)
 
 > 💼 **Available for freelance from end of April 2026** — Remote · Paris · FinTech & AI projects welcome
