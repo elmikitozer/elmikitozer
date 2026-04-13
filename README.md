@@ -53,8 +53,7 @@ Profil hybride **tech & finance** — ingénieur logiciel à l'École 42 Paris e
 
 ## 📊 Statistiques
 
-![Mikaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmikitozer&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmikitozer&layout=compact&hide_border=true&theme=default)
+![GitHub streak](https://streak-stats.demolab.com?user=elmikitozer&theme=default&hide_border=true)
 
 ---
 
